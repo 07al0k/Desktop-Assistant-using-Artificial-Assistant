@@ -1,0 +1,40 @@
+## Libraries Used
+
+1. **speechrecognition**  
+   - Used for speech-to-text functionality, allowing the assistant to recognize voice commands.
+   
+2. **pyttsx3**  
+   - Used for text-to-speech functionality, so the assistant can speak back responses to the user.
+
+3. **pyaudio**  
+   - Used to interface with the microphone for real-time audio capture, which is essential for voice recognition.
+
+4. **pyautogui**  
+   - Used for automating tasks like mouse control, keyboard input, and other GUI actions on the desktop.
+
+5. **requests**  
+   - Used to make HTTP requests, such as retrieving data from web APIs for weather updates or search results.
+
+6. **smtplib**  
+   - Used to send emails through SMTP, allowing the assistant to send emails based on voice commands.
+
+7. **wikipedia**  
+   - Used for querying Wikipedia articles, so the assistant can provide quick information about various topics.
+
+8. **datetime**  
+   - Used to manage and manipulate dates and times, essential for setting reminders and alarms.
+
+9. **webbrowser**  
+   - Used to open web pages in the default browser, for example, when the assistant is asked to search the web.
+
+10. **os**  
+    - Provides functions to interact with the operating system, such as shutting down or restarting the computer.
+
+11. **time**  
+    - Used for managing delays and time-based tasks, like waiting before executing certain commands.
+
+12. **pyttsx3**  
+    - Used for text-to-speech conversion to provide feedback to the user. (Similar to another library above)
+
+13.**platform**  
+    - Used to check the operating system, ensuring compatibility and enabling specific commands based on whether the user is on Windows, macOS, or Linux.
